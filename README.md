@@ -5,7 +5,7 @@
 # 🚀 Technologies Used
 
 <ol>
-<li><b>HTML5 :</b> The structure of the web page is built using HTML5, ensuring a modern and well-organized layout.</li>
-<li><b>CSS3 :</b> Styling is enhanced through CSS3, providing a visually appealing and responsive design.</li>
-<li><b>JavaScript:</b> Dynamic animations and interactive features are powered by JavaScript, creating a lively and engaging user experience.</li>
+<li><b>HTML5 :</b> The structure of the web page is built using HTML5, ensuring a modern and well-organized layout.</li><br>
+<li><b>CSS3 :</b> Styling is enhanced through CSS3, providing a visually appealing and responsive design.</li><br>
+<li><b>JavaScript:</b> Dynamic animations and interactive features are powered by JavaScript, creating a lively and engaging user experience.</li><br>
 </ol>
