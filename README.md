@@ -2,6 +2,12 @@
 
 <p>Welcome to our dynamic and festive web project designed to celebrate the arrival of the new year! This project combines HTML, CSS, and JavaScript to create an interactive and lively experience for users.</p>
 
+# 🎉 Features
+<ol>
+<li><b>Dynamic Animations:</b>Enjoy dynamic animations powered by JavaScript, adding a festive touch to the celebration.</li>
+<li><b>Interactive Elements:</b>Engage with interactive features that enhance user participation and enjoyment.</li>
+</ol>
+
 # 🚀 Technologies Used
 
 <ol>
