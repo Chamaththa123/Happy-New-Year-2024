@@ -4,8 +4,8 @@
 
 # 🎉 Features
 <ol>
-<li><b>Dynamic Animations:</b>Enjoy dynamic animations powered by JavaScript, adding a festive touch to the celebration.</li>
-<li><b>Interactive Elements:</b>Engage with interactive features that enhance user participation and enjoyment.</li>
+<li><b>Dynamic Animations:</b> Enjoy dynamic animations powered by JavaScript, adding a festive touch to the celebration.</li>
+<li><b>Interactive Elements:</b> Engage with interactive features that enhance user participation and enjoyment.</li>
 </ol>
 
 # 🚀 Technologies Used
@@ -21,3 +21,9 @@
 Our project is deployed using Cloudflare for a reliable and fast web hosting experience. Cloudflare ensures that our web application is delivered to users with optimal performance, security, and reliability.
 
 Link : https://dc78fc0f.happy-new-year-2024-25n.pages.dev/
+
+
+<video width="640" height="360" controls>
+        <source src="https://firebasestorage.googleapis.com/v0/b/test-reactnative-9bda1.appspot.com/o/happy%20new%20year.mp4?alt=media&token=c4e900a4-688b-41d8-a1fc-6013f9226d6a" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
